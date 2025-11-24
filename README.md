@@ -12,4 +12,4 @@ I analyzed a dataset of US Superstore sales to identify the most profitable prod
     Why ask this: To send them special coupons (VIP retention).
 
 ## Results
-
+e commerce project 1.pdf
