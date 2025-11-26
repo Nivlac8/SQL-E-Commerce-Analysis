@@ -6,6 +6,8 @@ I analyzed a dataset of US Superstore sales to identify the most profitable prod
 ## 🛠️ Tools Used
 * **SQL (SQLite):** For data aggregation and analysis.
 * **DB Browser:** For executing queries and validating data types.
+* ## 📂 Data Source
+* **[Download the Raw Data (CSV)](superstore.csv)**
 
 ---
 
